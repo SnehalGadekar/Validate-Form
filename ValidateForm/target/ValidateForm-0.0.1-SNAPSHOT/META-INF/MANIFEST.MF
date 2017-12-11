@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ValidateForm
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 737224
+Implementation-Vendor-Id: ValidateForm
+Build-Jdk: 1.8.0_92
+Implementation-URL: http://projects.spring.io/spring-boot/ValidateForm
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
